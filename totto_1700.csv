@@ -1,0 +1,6 @@
+"SIM card format","Introduced","Standard reference","Length (mm)","Width (mm)","Thickness (mm)"
+"Full-size (1FF)","1991","ISO/IEC 7810:2003, ID-1","85.60","53.98","0.76"
+"Mini-SIM (2FF)","1996","ISO/IEC 7810:2003, ID-000","25.00","15.00","0.76"
+"Micro-SIM (3FF)","2003","ETSI TS 102 221 V9.0.0, Mini-UICC","15.00","12.00","0.76"
+"Nano-SIM (4FF)","early 2012","ETSI TS 102 221 V11.0.0","12.30","8.80","0.67"
+"Embedded-SIM (eSIM)","","JEDEC Design Guide 4.8, SON-8 ETSI TS 103 383 V12.0.0 GSMA SGP.22 V1.0","6.00","5.00","<1.00"
